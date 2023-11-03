@@ -1,0 +1,21 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "WEBSITE_SLOT_NAME": "Production",
+    "FUNCTIONS_EXTENSION_VERSION": "~4",
+    "ScmType": "None",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "REMOTEDEBUGGINGVERSION": "16.0.32106.67",
+    "APPLICATIONINSIGHTS_CONNECTION_STRING": "InstrumentationKey=24ce5dcb-ff26-43c3-9253-01af84a21223;IngestionEndpoint=https://uksouth-1.in.applicationinsights.azure.com/;LiveEndpoint=https://uksouth.livediagnostics.monitor.azure.com/",
+    "FUNCTIONS_RUNTIME_SCALE_MONITORING_ENABLED": "0",
+    "MyConnectionStringAAS": "Provider=MSOLAP;Data Source=asazure://uksouth.asazure.windows.net/edpTESTuksaas01:rw;Initial Catalog=DbName;User ID=svc_edpetlT@aegislondon.co.uk;Password=AnalysisServices123;Persist Security Info=True;Impersonation Level=Impersonate",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=synapsedevuksrg996f;AccountKey=aYKkuaK2wyKWmgteNgCBHUZD3M0M9FjVVSiSv58pGYNBSGSFz889ab541DjyWlw/3t7uY0wQXlOy+AStLqZQIw==;EndpointSuffix=core.windows.net",
+    "WEBSITE_CONTENTSHARE": "aasextractaa1c",
+    "MyConnectionStringSynapse": "Server=tcp:edp-TEST-uks-synapse.sql.azuresynapse.net,1433;Initial Catalog=syndp_underwriting_dm;Persist Security Info=False;Authentication=Active Directory Password;User ID=SVC_EDPETLT@aegislondon.co.uk;Password=AnalysisServices123;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;",
+    "WEBSITE_AUTH_AUTO_AAD": "False",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=synapsedevuksrg996f;AccountKey=aYKkuaK2wyKWmgteNgCBHUZD3M0M9FjVVSiSv58pGYNBSGSFz889ab541DjyWlw/3t7uY0wQXlOy+AStLqZQIw==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "WEBSITE_SITE_NAME": "aasextract",
+    "WEBSITE_AUTH_LOGOUT_PATH": "/.auth/logout"
+  }
+}
